@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=srijanv9&label=Profile%20views&color=0e75b6&style=flat" alt="srijanv9" /> </p>
 
-- 🌱 I’m currently learning **Android Development**
+
 
 - ✨ My Bio **https://srijanv9.github.io/**
 
