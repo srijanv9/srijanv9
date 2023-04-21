@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **srijanv9@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
+<h1><img src="https://media.giphy.com/media/NnSFnC428LRHaxUNzj/giphy.gif" width="40"> Where you can find me</h1>
 <p align="left">
 <a href="https://twitter.com/srijanverma12" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="srijanverma12" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/srijanv9" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="srijanv9" height="30" width="40" /></a>
