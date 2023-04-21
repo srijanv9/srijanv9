@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Srijan Verma</h1>
+<h1><img src="https://media.giphy.com/media/WqR7WfQVrpXNcmrm81/giphy.gif" width="40"> नमस्ते (Namaste), I'm Srijan Verma!</h1>
 <h3 align="center">Just a Noob who just started wondering how things work.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=srijanv9&label=Profile%20views&color=0e75b6&style=flat" alt="srijanv9" /> </p>
