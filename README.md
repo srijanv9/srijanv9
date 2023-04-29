@@ -11,13 +11,13 @@
 
 <h1><img src="https://media.giphy.com/media/NnSFnC428LRHaxUNzj/giphy.gif" width="40"> Where you can find me</h1>
 <p align="left">
-<a href="https://twitter.com/srijanverma12" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="srijanverma12" height="30" width="40" /></a>
+<!-- <a href="https://twitter.com/srijanverma12" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="srijanverma12" height="30" width="40" /></a> -->
 <a href="https://linkedin.com/in/srijanv9" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="srijanv9" height="30" width="40" /></a>
-<a href="https://fb.com/srijan verma" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="srijan verma" height="30" width="40" /></a>
-<a href="https://instagram.com/srij.an" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="srij.an" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/srijan verma" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="srijan verma" height="30" width="40" /></a>
+<!-- <a href="https://fb.com/srijan verma" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="srijan verma" height="30" width="40" /></a> -->
+<!-- <a href="https://instagram.com/srij.an" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="srij.an" height="30" width="40" /></a> -->
+<!-- <a href="https://www.youtube.com/c/srijan verma" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="srijan verma" height="30" width="40" /></a> -->
 <a href="https://www.hackerrank.com/srijanv9" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="srijanv9" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/srijanv9" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/geeksforgeeks.svg" alt="srijanv9" height="30" width="40" /></a>
+<!-- <a href="https://auth.geeksforgeeks.org/user/srijanv9" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/geeksforgeeks.svg" alt="srijanv9" height="30" width="40" /></a> -->
 </p>
 
 <!-- Languages and tools -->
